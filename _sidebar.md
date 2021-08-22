@@ -1,0 +1,27 @@
+* [首页](README.md)
+
+* [centos](centos/CentOS7开放及查看端口.md)
+  * [CentOS7开放及查看端口](centos/CentOS7开放及查看端口.md)
+  * [安装docker并配置镜像加速](docker/安装docker并配置镜像加速.md)
+
+* [docker](docker/安装docker并配置镜像加速.md)
+  * [安装docker并配置镜像加速](docker/安装docker并配置镜像加速.md)
+  * [docker安装ElasticeSearch](docker/docker安装ElasticeSearch&kibana.md)
+  * [docker安装MinIO自建对象存储服务](docker/docker安装MinIO自建对象存储服务.md)
+  * [docker安装mongodb](docker/docker安装mongodb.md)
+  * [docker安装mysql](docker/docker安装mysql.md)
+  * [docker安装nacos](docker/docker安装nacos.md)
+  * [docker安装rabbitMQ](docker/docker安装rabbitMQ.md)
+  * [docker安装Redis](docker/docker安装Redis.md)
+  * [docker安装YApi](docker/docker安装YApi.md)
+  * [docker常用命令](docker/docker常用命令.md)
+
+* [ubuntu](ubuntu/ubuntu上启用SSH.md)
+  * [ubuntu上启用SSH](ubuntu/ubuntu上启用SSH.md)
+
+* [other](other/WSL的Ubuntu子系统内存占用过大.md)
+  * [WSL的Ubuntu子系统内存占用过大](other/WSL的Ubuntu子系统内存占用过大.md)
+  * [win端口占用问题](other/win端口占用问题.md)
+  * [图床的选择](other/图床的选择.md)
+  * [TG-CSIG-智慧零售-社会招聘要点](other/TG-CSIG-智慧零售-社会招聘要点.md)
+  * [git](other/git.md)
