@@ -12,7 +12,7 @@ server:
     from_secret: password
 
 steps:
-- name: greeting
+- name: update
   commands:
   - cd /mydata/nginx/html/MaskWolfNote
   - git pull
@@ -23,6 +23,3 @@ trigger:
   event:
   - push
   - pull_request
-  - tag
-  - promote
-  - rollback
