@@ -1,0 +1,28 @@
+---
+kind: pipeline
+type: ssh
+name: default
+
+server:
+  host:
+    from_secret: host
+  user:
+    from_secret: username
+  password:
+    from_secret: password
+
+steps:
+- name: greeting
+  commands:
+  - cd /mydata/nginx/html/MaskWolfNote
+  - git pull
+
+trigger:
+  branch:
+  - master
+  event:
+  - push
+  - pull_request
+  - tag
+  - promote
+  - rollback

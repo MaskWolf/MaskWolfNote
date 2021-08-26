@@ -24,4 +24,4 @@
   * [win端口占用问题](other/win端口占用问题.md)
   * [图床的选择](other/图床的选择.md)
   * [TG-CSIG-智慧零售-社会招聘要点](other/TG-CSIG-智慧零售-社会招聘要点.md)
-  * [git](other/git.md)
+  * [git](other/git常用命令.md)
